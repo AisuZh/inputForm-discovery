@@ -1,0 +1,24 @@
+.container{
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1220px;
+}
+
+.buttons{
+  display: flex;
+  flex-direction: column;
+}
+
+.App{
+  background: rgb(249,250,252);
+}
+
+.auth-form{
+  background: rgb(249,250,252);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+li{
+  list-style: none;
+}
